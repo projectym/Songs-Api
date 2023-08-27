@@ -247,6 +247,22 @@
             "key": "A Flat",
             "last_date_sung": "2021-01-10",
             "url": "withholding-nothing"
+        },
+        {
+            "id": "RecklessLove",
+            "name": "Reckless Love",
+            "lead": "Keith",
+            "key": "G flat",
+            "last_date_sung": "2021-01-10",
+            "url": "reckless-love"
+        },
+        {
+            "id": "BetterDays",
+            "name": "Better Days",
+            "lead": "Fran",
+            "key": "E Flat",
+            "last_date_sung": "2020-12-27",
+            "url": "better-days"
         }
     ],
     "Keys": [
